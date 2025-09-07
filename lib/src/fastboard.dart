@@ -1,6 +1,6 @@
 import 'package:fastboard_flutter/src/widgets/flutter_after_layout.dart';
 import 'package:flutter/widgets.dart';
-import 'package:i18n_extension/i18n_widget.dart';
+import 'package:i18n_extension/i18n_extension.dart';
 import 'package:whiteboard_sdk_flutter/whiteboard_sdk_flutter.dart';
 
 import 'controller.dart';
