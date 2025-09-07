@@ -10,9 +10,10 @@ environment:
 dependencies:
     flutter:
         sdk: flutter
-    whiteboard_sdk_flutter: ^0.5.4
-    # whiteboard_sdk_flutter:
-    #     path: ../whiteboard_flutter
+    #whiteboard_sdk_flutter: ^0.5.4
+    whiteboard_sdk_flutter:
+        git:
+            url: https://github.com/organguy/whiteboard_flutter.git
     flutter_svg: ^2.2.1
     stream_transform: ^2.0.0
     i18n_extension: ^5.0.0
