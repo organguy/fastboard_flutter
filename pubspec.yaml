@@ -16,7 +16,7 @@ dependencies:
             url: https://github.com/organguy/whiteboard_flutter.git
     flutter_svg: ^2.2.1
     stream_transform: ^2.0.0
-    i18n_extension: ^5.0.0
+    i18n_extension: ^6.0.0
 
 dev_dependencies:
     flutter_test:
